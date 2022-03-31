@@ -1,0 +1,2 @@
+# veri
+Binary Search Tree
